@@ -64,7 +64,7 @@ It allows controlling up to **16 servo motors** with multiple modes, a pot-contr
 
 ---
 
-## 🖼️ Screenshots (OLED)
+## 🖼️ MENU (OLED)
 1. Main Menu → Scrollable list with bar  
 2. Centre Mode → All servos at 90°  
 3. Manual Mode → Pot controls all servos, angle shown with gauge  
