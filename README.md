@@ -102,11 +102,6 @@ It allows controlling up to **16 servo motors** with multiple modes, a pot-contr
 
 ---
 
-## 📄 License
-MIT License
-
----
-
 ## 🔧 Future Improvements
 - Add EEPROM memory to save last servo positions  
 - Support for individual servo speed adjustment  
